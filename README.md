@@ -1,7 +1,21 @@
-# Vue 3 + Vite
+# 2048 game using Vue 3 :video_game:
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+This is a Vue 3 implementation of the popular sliding block game 2048 written by Gabriele Cirulli under MIT licente.
 
-## Recommended IDE Setup
+## Build Setup
 
-- [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
+```bash
+# install dependencies
+pnpm install
+
+# serve with hot reload
+pnpm run dev
+
+# build for production
+pnpm run build
+```
+
+## Links
+
+- [2048 original repo](https://github.com/gabrielecirulli/2048)
+- [2048 wiki](<https://en.wikipedia.org/wiki/2048_(video_game)>)
