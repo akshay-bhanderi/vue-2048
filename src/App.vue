@@ -59,10 +59,10 @@
 
 <script setup>
 import { ref, onMounted, onBeforeUnmount } from 'vue';
-import GameScoreVue from './Components/GameScore.vue';
-import GameControlsVue from './Components/GameControls.vue';
+import GameScoreVue from './components/GameScore.vue';
+import GameControlsVue from './components/GameControls.vue';
 import PopupTransitionVue from './components/PopupTransition.vue';
-import PopupSelectGridSizeVue from './Components/PopupSelectGridSize.vue';
+import PopupSelectGridSizeVue from './components/PopupSelectGridSize.vue';
 import PopupGameoverVue from './components/PopupGameover.vue';
 import PopupWinVue from './components/PopupWin.vue';
 import { state, canMove } from './store';
