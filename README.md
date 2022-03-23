@@ -2,6 +2,10 @@
 
 This is a Vue 3 implementation of the popular sliding block game 2048 written by Gabriele Cirulli under MIT licente.
 
+## Demo
+
+https://vue3-2048.netlify.app
+
 ## Build Setup
 
 ```bash
