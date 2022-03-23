@@ -6,6 +6,8 @@ This is a Vue 3 implementation of the popular sliding block game 2048 written by
 
 https://vue3-2048.netlify.app
 
+<img src="https://vue3-2048.netlify.app/screenshot.png" width="200" >
+
 ## Build Setup
 
 ```bash
